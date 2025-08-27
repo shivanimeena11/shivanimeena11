@@ -26,5 +26,8 @@ Java
   
 🔗 Gmail: shivanimeena.bca2023@ssism.org
 
+🔗 LinkedIn: linkedin.com/in/shivani-meena11
+
+💬 Let’s connect & create something amazing together!
 
 
