@@ -2,18 +2,17 @@
 
 💻 Mern-Stack Developer 
 
-🔧 Tech Stack
+🔧 Tech Stack Icons
 
-React  
+React → <FaReact />
 
-java Script
+JavaScript → <SiJavascript />
 
-css
- 
-HTML
+CSS → <FaCss3Alt />
 
-Java  
+HTML → <FaHtml5 />
 
+Java → <FaJava />
 
 
 🎯 About Me
