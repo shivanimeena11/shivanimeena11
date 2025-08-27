@@ -4,24 +4,27 @@
 
 🔧 Tech Stack Icons
 
-React → <FaReact />
+React 
 
-JavaScript → <SiJavascript />
+JavaScript 
 
-CSS → <FaCss3Alt />
+CSS 
 
-HTML → <FaHtml5 />
+HTML 
 
-Java → <FaJava />
+Java 
 
 
 🎯 About Me
 
-✨ my name is shivani meena bca student at sant singaji institute of science and managment
+🎓 BCA Student at Sant Singaji Institute of Science & Management  
+💻 Aspiring MERN Stack Developer | Passionate about Web Development  
+🌱 Currently improving my skills in React, JavaScript & Backend Development  
+🚀 Love building responsive, user-friendly projects  
 
 🌐 Connect with Me
   
 🔗shivanimeena.bca2023@ssism.org
 
-🔗 LinkedIn: 
+🔗 LinkedIn: linkdin/in/shivani-meena11
 
