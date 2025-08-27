@@ -24,7 +24,7 @@ Java
 
 🌐 Connect with Me
   
-🔗shivanimeena.bca2023@ssism.org
+🔗 Gmail: shivanimeena.bca2023@ssism.org
 
-🔗 LinkedIn: linkdin/in/shivani-meena11
+
 
