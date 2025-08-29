@@ -2,7 +2,7 @@
 
 💻 Mern-Stack Developer 
 
-🔧 Tech Stack Icons
+🔧 Languages Known:
 
 React 
 
