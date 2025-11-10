@@ -4,17 +4,19 @@
 
 🔧 Languages Known:
 
-React 
+Java 
 
 JavaScript 
 
+HTML
+
 CSS 
 
-HTML 
-
-Java 
-
 bootstreap
+
+React js
+
+Tailwind css
 
 
 🎯 About Me
